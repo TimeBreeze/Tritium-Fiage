@@ -1,0 +1,13 @@
+{
+    "name": "Tritium Fiage",
+    "author": "Fiage",
+    "version": "1.4",
+    "versionCode": 1.4,
+    "features": {
+        "strict": true,
+        "pedestal": true
+    },
+    "module": "CuprumTurbo",
+    "state": "/sdcard/Android/ct/cur_mode.txt",
+    "entry": "/data/powercfg.sh"
+}
